@@ -298,3 +298,4 @@ For support, email munishupadhyay183@gmail.com or create an issue in the GitHub 
 **Made with ❤️ for sustainable agriculture and smart farming practices**
 
 🌾 *Helping farmers make data-driven decisions for better crop yields* 🌾
+Commit 1
