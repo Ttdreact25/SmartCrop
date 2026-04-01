@@ -1,13 +1,21 @@
 """Tests for smart_crop.data_loader module."""
 import pytest
-from smart_crop.data_loader import DataLoader
+import pandas as pd
+from smart_crop.data_loader import load_crop_data, load_location_data
 
 
-class TestDataLoader:
-    """Test cases for DataLoader class."""
+def test_load_crop_data():
+    """Test loading crop data."""
+    df = load_crop_data()
+    assert isinstance(df, pd.DataFrame)
+    assert len(df) > 0
 
-    def test_init(self):
-        """Test DataLoader initialization."""
+
+def test_load_location_data():
+    """Test loading location data."""
+    df = load_location_data()
+    assert isinstance(df, pd.DataFrame)
+    assert len(df) > 0
         loader = DataLoader()
         assert loader is not None
 
