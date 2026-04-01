@@ -1,0 +1,30 @@
+{
+  "kiran": [
+    {
+      "crop": "Cotton",
+      "land_size": 1.4000000000000004,
+      "yield_per_acre": 1.7,
+      "total_yield": 2.38,
+      "price_per_ton": 60000,
+      "total_revenue": 142800.0,
+      "costs": {
+        "seeds": 3000,
+        "fertilizer": 4500,
+        "irrigation": 2500,
+        "labor": 6000,
+        "equipment": 2500,
+        "pesticides": 1500,
+        "other": 1500
+      },
+      "total_cost": 21500,
+      "profit_loss": 121300.0,
+      "profit_margin": 84.94,
+      "roi": 564.19,
+      "status": "Profit",
+      "status_icon": "\u2705",
+      "growing_season": "Kharif",
+      "duration_days": 150,
+      "timestamp": "2026-03-31 10:46:14"
+    }
+  ]
+}

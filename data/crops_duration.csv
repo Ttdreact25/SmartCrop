@@ -1,0 +1,27 @@
+crop_name,growing_duration_days,season
+rice,120,Kharif
+maize,120,Kharif
+chickpea,90,Rabi
+kidney beans,90,Kharif
+pigeonpea,150,Kharif
+MOTHBEANS,80,Kharif
+mungbean,75,Kharif
+blackgram,90,Kharif
+lentil,110,Rabi
+PIGEONPEAS,240,Perennial
+banana,270,Perennial
+mango,240,Perennial
+grapes,180,Perennial
+watermelon,80,Kharif
+muskmelon,90,Kharif
+apple,240,Perennial
+orange,240,Perennial
+papaya,270,Perennial
+coconut,360,Perennial
+cotton,210,Kharif
+sugarcane,420,Annual
+tobacco,120,Rabi
+groundnut,130,Kharif
+soyabean,110,Kharif
+coffee,240,Perennial
+jute,120,Kharif

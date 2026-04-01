@@ -1,0 +1,169 @@
+{
+  "kiran": [
+    {
+      "crop": "Cotton",
+      "farm_size": 2.200000000000001,
+      "essential": {
+        "equipment": [
+          "Tractor",
+          "Disc Plough",
+          "Seed Drill",
+          "Sprayer",
+          "Duster"
+        ],
+        "cost": 933000
+      },
+      "recommended": {
+        "equipment": [
+          "Cultivator",
+          "Weeder",
+          "Harvester",
+          "Irrigation Pump"
+        ],
+        "cost": 1282000
+      },
+      "optional": {
+        "equipment": [
+          "Drip Irrigation System",
+          "Ridger"
+        ],
+        "cost": 105000
+      },
+      "total_equipment": 11,
+      "total_cost": 2320000,
+      "notes": "Cotton requires regular pest management. Sprayer and duster are critical."
+    },
+    {
+      "crop": "Rice",
+      "farm_size": 2.200000000000001,
+      "essential": {
+        "equipment": [
+          "Tractor",
+          "Rotavator",
+          "Transplanter",
+          "Sprayer",
+          "Irrigation Pump"
+        ],
+        "cost": 1155000
+      },
+      "recommended": {
+        "equipment": [
+          "Leveler",
+          "Harvester",
+          "Thresher",
+          "Winnower"
+        ],
+        "cost": 1325000
+      },
+      "optional": {
+        "equipment": [
+          "Drip Irrigation System",
+          "Weeder"
+        ],
+        "cost": 92000
+      },
+      "total_equipment": 11,
+      "total_cost": 2572000,
+      "notes": "Rice requires precise water management. Transplanter is essential for paddy cultivation."
+    },
+    {
+      "crop": "Rice",
+      "farm_size": 1.0,
+      "essential": {
+        "equipment": [
+          "Tractor",
+          "Rotavator",
+          "Transplanter",
+          "Sprayer",
+          "Irrigation Pump"
+        ],
+        "cost": 1155000
+      },
+      "recommended": {
+        "equipment": [
+          "Leveler",
+          "Harvester",
+          "Thresher",
+          "Winnower"
+        ],
+        "cost": 1325000
+      },
+      "optional": {
+        "equipment": [
+          "Drip Irrigation System",
+          "Weeder"
+        ],
+        "cost": 92000
+      },
+      "total_equipment": 11,
+      "total_cost": 2572000,
+      "notes": "Rice requires precise water management. Transplanter is essential for paddy cultivation."
+    },
+    {
+      "crop": "Rice",
+      "farm_size": 1.0,
+      "essential": {
+        "equipment": [
+          "Tractor",
+          "Rotavator",
+          "Transplanter",
+          "Sprayer",
+          "Irrigation Pump"
+        ],
+        "cost": 1155000
+      },
+      "recommended": {
+        "equipment": [
+          "Leveler",
+          "Harvester",
+          "Thresher",
+          "Winnower"
+        ],
+        "cost": 1325000
+      },
+      "optional": {
+        "equipment": [
+          "Drip Irrigation System",
+          "Weeder"
+        ],
+        "cost": 92000
+      },
+      "total_equipment": 11,
+      "total_cost": 2572000,
+      "notes": "Rice requires precise water management. Transplanter is essential for paddy cultivation."
+    },
+    {
+      "crop": "Rice",
+      "farm_size": 1.0,
+      "essential": {
+        "equipment": [
+          "Tractor",
+          "Rotavator",
+          "Transplanter",
+          "Sprayer",
+          "Irrigation Pump"
+        ],
+        "cost": 1155000
+      },
+      "recommended": {
+        "equipment": [
+          "Leveler",
+          "Harvester",
+          "Thresher",
+          "Winnower"
+        ],
+        "cost": 1325000
+      },
+      "optional": {
+        "equipment": [
+          "Drip Irrigation System",
+          "Weeder"
+        ],
+        "cost": 92000
+      },
+      "total_equipment": 11,
+      "total_cost": 2572000,
+      "notes": "Rice requires precise water management. Transplanter is essential for paddy cultivation."
+    }
+  ]
+}

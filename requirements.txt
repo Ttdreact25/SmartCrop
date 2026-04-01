@@ -1,0 +1,21 @@
+streamlit==1.37.1
+streamlit_option_menu==0.4.0
+numpy==1.16.4
+pandas==0.24.2
+scikit-learn==1.5.1
+matplotlib==3.10.5
+openpyxl==3.1.2
+joblib==1.5.1
+plotly==6.2.0
+python-dotenv==1.1.1
+Requests==2.32.4
+pillow==10.1.0  # required for image handling in leaf detection feature
+bcrypt==4.1.2  # required for secure password hashing
+
+# Optional: required only if you plan to train the leaf detection CNN model
+tensorflow>=2.0
+scipy>=1.7  # some TensorFlow operations reference scipy
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
